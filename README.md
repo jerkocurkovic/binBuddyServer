@@ -1,2 +1,2 @@
 # binBuddyServer
-This is server for my binBuddy app
+This is server for my binBuddy app 
